@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\asetas\asetas\bin\Debug\asetas.exe.config
+C:\Users\DELL\source\repos\asetas\asetas\bin\Debug\asetas.exe
+C:\Users\DELL\source\repos\asetas\asetas\bin\Debug\asetas.pdb
+C:\Users\DELL\source\repos\asetas\asetas\obj\Debug\asetas.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\asetas\asetas\obj\Debug\asetas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\asetas\asetas\obj\Debug\asetas.exe
+C:\Users\DELL\source\repos\asetas\asetas\obj\Debug\asetas.pdb
+C:\Users\DELL\source\repos\asetas\asetas\obj\Debug\asetas.csproj.SuggestedBindingRedirects.cache

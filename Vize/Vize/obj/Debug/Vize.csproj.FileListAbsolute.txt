@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Vize\Vize\bin\Debug\Vize.exe.config
+C:\Users\DELL\source\repos\Vize\Vize\bin\Debug\Vize.exe
+C:\Users\DELL\source\repos\Vize\Vize\bin\Debug\Vize.pdb
+C:\Users\DELL\source\repos\Vize\Vize\obj\Debug\Vize.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Vize\Vize\obj\Debug\Vize.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Vize\Vize\obj\Debug\Vize.exe
+C:\Users\DELL\source\repos\Vize\Vize\obj\Debug\Vize.pdb

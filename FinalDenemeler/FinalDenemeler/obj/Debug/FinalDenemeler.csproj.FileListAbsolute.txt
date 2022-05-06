@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\FinalDenemeler\FinalDenemeler\bin\Debug\FinalDenemeler.exe.config
+C:\Users\DELL\source\repos\FinalDenemeler\FinalDenemeler\bin\Debug\FinalDenemeler.exe
+C:\Users\DELL\source\repos\FinalDenemeler\FinalDenemeler\bin\Debug\FinalDenemeler.pdb
+C:\Users\DELL\source\repos\FinalDenemeler\FinalDenemeler\obj\Debug\FinalDenemeler.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\FinalDenemeler\FinalDenemeler\obj\Debug\FinalDenemeler.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FinalDenemeler\FinalDenemeler\obj\Debug\FinalDenemeler.exe
+C:\Users\DELL\source\repos\FinalDenemeler\FinalDenemeler\obj\Debug\FinalDenemeler.pdb

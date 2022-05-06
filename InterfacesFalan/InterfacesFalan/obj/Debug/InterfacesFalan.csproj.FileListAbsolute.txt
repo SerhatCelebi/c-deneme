@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\InterfacesFalan\InterfacesFalan\obj\Debug\InterfacesFalan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\InterfacesFalan\InterfacesFalan\bin\Debug\InterfacesFalan.exe.config
+C:\Users\DELL\source\repos\InterfacesFalan\InterfacesFalan\bin\Debug\InterfacesFalan.exe
+C:\Users\DELL\source\repos\InterfacesFalan\InterfacesFalan\bin\Debug\InterfacesFalan.pdb
+C:\Users\DELL\source\repos\InterfacesFalan\InterfacesFalan\obj\Debug\InterfacesFalan.exe
+C:\Users\DELL\source\repos\InterfacesFalan\InterfacesFalan\obj\Debug\InterfacesFalan.pdb
+C:\Users\DELL\source\repos\InterfacesFalan\InterfacesFalan\obj\Debug\InterfacesFalan.csprojAssemblyReference.cache
